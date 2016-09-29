@@ -7,7 +7,7 @@ $muted_text_color  = $this->get_customizer_setting( 'muted_text_color' );
 $border_color      = $this->get_customizer_setting( 'border_color' );
 $link_color        = $this->get_customizer_setting( 'link_color' );
 
-$navbar_background_image = $this->get_customizer_setting( 'navbar_background_image' );$navbar_background_color = $this->get_customizer_setting( 'navbar_background_color' );
+$navbar_background_color = $this->get_customizer_setting( 'navbar_background_color' );
 $navbar_color            = $this->get_customizer_setting( 'navbar_color' );
 ?>
 /* Generic WP styling */
